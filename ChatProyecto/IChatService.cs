@@ -8,14 +8,17 @@ using System.Threading.Tasks;
 
 namespace ChatProyecto
 {
-   [ServiceContract]
+   [ServiceContract(CallbackContract = typeof(IChatServiceCallback))]
     public interface IChatService
     {
-      
-        
+        [OperationContract]
+        void Login(string nickname);
         [OperationContract]
         Message GetMessage();
-        
+        [OperationContract(IsOneWay = true)]
+        void SendMessage(Message message);
+        [OperationContract]
+        List<Message> GetMessageHistory();
 
 
     }
