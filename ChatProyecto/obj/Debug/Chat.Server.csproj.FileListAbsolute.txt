@@ -1,0 +1,7 @@
+C:\Users\jack-\source\repos\ChatProyecto\ChatProyecto\bin\Debug\ChatProyecto.exe.config
+C:\Users\jack-\source\repos\ChatProyecto\ChatProyecto\bin\Debug\ChatProyecto.exe
+C:\Users\jack-\source\repos\ChatProyecto\ChatProyecto\bin\Debug\ChatProyecto.pdb
+C:\Users\jack-\source\repos\ChatProyecto\ChatProyecto\obj\Debug\Chat.Server.csproj.AssemblyReference.cache
+C:\Users\jack-\source\repos\ChatProyecto\ChatProyecto\obj\Debug\Chat.Server.csproj.CoreCompileInputs.cache
+C:\Users\jack-\source\repos\ChatProyecto\ChatProyecto\obj\Debug\ChatProyecto.exe
+C:\Users\jack-\source\repos\ChatProyecto\ChatProyecto\obj\Debug\ChatProyecto.pdb
