@@ -1,0 +1,6 @@
+C:\Users\Mariana\source\repos\ChatApp.Contracts\bin\Debug\ChatApp.Contracts.dll
+C:\Users\Mariana\source\repos\ChatApp.Contracts\bin\Debug\ChatApp.Contracts.pdb
+C:\Users\Mariana\source\repos\ChatApp.Contracts\obj\Debug\ChatApp.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\source\repos\ChatApp.Contracts\obj\Debug\ChatApp.Contracts.dll
+C:\Users\Mariana\source\repos\ChatApp.Contracts\obj\Debug\ChatApp.Contracts.pdb
+C:\Users\Mariana\source\repos\ChatApp.Contracts\obj\Debug\ChatApp.Contracts.csproj.AssemblyReference.cache
