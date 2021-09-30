@@ -1,0 +1,10 @@
+C:\Users\Mariana\source\repos\Server\obj\Debug\ChatApp.Server.csproj.AssemblyReference.cache
+C:\Users\Mariana\source\repos\Server\obj\Debug\ChatApp.Server.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\source\repos\Server\bin\Debug\Server.exe.config
+C:\Users\Mariana\source\repos\Server\bin\Debug\Server.exe
+C:\Users\Mariana\source\repos\Server\bin\Debug\Server.pdb
+C:\Users\Mariana\source\repos\Server\bin\Debug\ChatApp.Contracts.dll
+C:\Users\Mariana\source\repos\Server\bin\Debug\ChatApp.Contracts.pdb
+C:\Users\Mariana\source\repos\Server\obj\Debug\ChatApp.Server.csproj.CopyComplete
+C:\Users\Mariana\source\repos\Server\obj\Debug\Server.exe
+C:\Users\Mariana\source\repos\Server\obj\Debug\Server.pdb
