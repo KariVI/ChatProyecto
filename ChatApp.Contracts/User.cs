@@ -9,9 +9,17 @@ namespace ChatApp.Contracts
 {
     public class User
     {
-      
+        
+
         public string Name { get; set; }
+
+        public User()
+        {
+            Name = "";
+        }
         public ObservableCollection <Message> UserMessager { get; set; }
+
+
     }
     public class Message
     {

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ChatApp.Client
 {
-    class ChatViewModel
+   public class ChatViewModel
     {
     }
 }

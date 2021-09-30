@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid Name ="Main">
-        <local:Login></local:Login>
+        <local:Login RenderTransformOrigin="0.517,0.454" ></local:Login>
     </Grid>
 </Window>

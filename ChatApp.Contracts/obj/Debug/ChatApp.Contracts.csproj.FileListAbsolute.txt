@@ -4,3 +4,9 @@ C:\Users\Mariana\source\repos\ChatApp.Contracts\obj\Debug\ChatApp.Contracts.cspr
 C:\Users\Mariana\source\repos\ChatApp.Contracts\obj\Debug\ChatApp.Contracts.dll
 C:\Users\Mariana\source\repos\ChatApp.Contracts\obj\Debug\ChatApp.Contracts.pdb
 C:\Users\Mariana\source\repos\ChatApp.Contracts\obj\Debug\ChatApp.Contracts.csproj.AssemblyReference.cache
+C:\Users\jack-\source\repos\ChatApp\ChatApp.Contracts\bin\Debug\ChatApp.Contracts.dll
+C:\Users\jack-\source\repos\ChatApp\ChatApp.Contracts\bin\Debug\ChatApp.Contracts.pdb
+C:\Users\jack-\source\repos\ChatApp\ChatApp.Contracts\obj\Debug\ChatApp.Contracts.csproj.AssemblyReference.cache
+C:\Users\jack-\source\repos\ChatApp\ChatApp.Contracts\obj\Debug\ChatApp.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\jack-\source\repos\ChatApp\ChatApp.Contracts\obj\Debug\ChatApp.Contracts.dll
+C:\Users\jack-\source\repos\ChatApp\ChatApp.Contracts\obj\Debug\ChatApp.Contracts.pdb

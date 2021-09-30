@@ -24,5 +24,9 @@ namespace ChatApp.Client
         {
             InitializeComponent();
         }
+
+        public Main mainView { get; set; }
+
+      
     }
 }

@@ -5,11 +5,13 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:ChatApp.Client"
              mc:Ignorable="d" 
-             MinHeight="100" MinWidth="160">
-    <Grid Background ="Lavender">
-        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Vertical" Margin="166,164,150,164" Width="209">
-            <TextBox x:Name="Username" HorizontalAlignment="Left" Height="23" Margin="89,32,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+             MinHeight="432" MinWidth="373" Height="409.625">
+    <Grid Background ="Lavender" Width="432" Margin="0,23,0,10">
+        <TextBox x:Name="Username" HorizontalAlignment="Left" Height="25" Margin="78,188,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="289" SelectionOpacity="0.2"/>
+        <Button x:Name="LoginButton" Background="Plum" Content="Login" Height="20" Margin="269,218,65,135" Click="LoginButton_Click"/>
 
-        </StackPanel>
+
+        <Label Content="Escribe tu nombre de usuario " HorizontalAlignment="Left" Margin="45,134,0,0" VerticalAlignment="Top" FontFamily="Segoe UI Black"/>
+        <Label Content="Inicio de sesión&#xD;&#xA;" HorizontalAlignment="Left" Margin="45,64,0,0" VerticalAlignment="Top" FontFamily="Bubble Bobble" FontSize="24"/>
     </Grid>
 </UserControl>
