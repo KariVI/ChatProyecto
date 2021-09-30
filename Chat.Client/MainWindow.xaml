@@ -5,8 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Chat.Client"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
+        Title="MainWindow" Height="392.784" Width="629.897">
+    <Grid Margin="0,0,2,2">
+        <TextBox HorizontalAlignment="Left" Height="26" Margin="251,177,0,0" TextWrapping="Wrap" Text="Inserta nickName" VerticalAlignment="Top" Width="248"/>
+        <Label Content="Inicio de sesión" HorizontalAlignment="Left" Margin="38,27,0,0" VerticalAlignment="Top" FontFamily="Bubble Bobble" FontSize="24"/>
+        <Label Content="NickName:" HorizontalAlignment="Left" Margin="251,132,0,0" VerticalAlignment="Top" FontFamily="Segoe UI Black" FontSize="14"/>
+        <Button Content="Conectarse" HorizontalAlignment="Left" Margin="492,314,0,0" VerticalAlignment="Top" Width="98" Click="Button_Click" FontFamily="Segoe UI Black"/>
+
     </Grid>
 </Window>
